@@ -1,0 +1,32 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "Building simple API with Node.js & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revzankamarullah/node-api-example.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "simple",
+    "api",
+    "js"
+  ],
+  "author": "revzankamarullah@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revzankamarullah/node-api-example/issues"
+  },
+  "homepage": "https://github.com/revzankamarullah/node-api-example#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1"
+  }
+}

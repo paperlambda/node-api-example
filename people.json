@@ -1,0 +1,30 @@
+[
+  {
+    "name":"Josh",
+    "age" :23
+  },
+  {
+    "name":"Agatha",
+    "age" :20
+  },
+  {
+    "name":"Nathan",
+    "age" :18
+  },
+  {
+    "name":"Joey",
+    "age" :20
+  },
+  {
+    "name":"Kyle",
+    "age" :19
+  },
+  {
+    "name":"George",
+    "age" :21
+  },
+  {
+    "name":"Morty",
+    "age" :22
+  }
+]
